@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{5A1C962A-DEDC-4600-A18B-1EF01A8223A9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Front-end test", "WebApplication1\Front-end test.csproj", "{5A1C962A-DEDC-4600-A18B-1EF01A8223A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algorithm", "algorithm\algorithm.csproj", "{CEB13442-5CCB-4211-A2DD-612BE4D4B28F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "algorithm", "algorithm\algorithm.csproj", "{CEB13442-5CCB-4211-A2DD-612BE4D4B28F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
